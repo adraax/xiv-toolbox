@@ -1,0 +1,3 @@
+[workspace]
+members = ["xiv-toolbox/src-tauri"]
+resolver = "2"
